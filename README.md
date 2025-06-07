@@ -78,16 +78,10 @@ Fork the repo, add your feature or fix, and submit a Pull Request.
 
 ---
 
-## License
-
-MIT License — feel free to use, modify, and distribute!
-
----
-
 ## Contact
 
 Miguel Araújo Julio
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername) | [miguel@example.com](mailto:miguel@example.com)
+[LinkedIn](https://linkedin.com/in/miguell-julio) | [GitHub](https://github.com/miguell-j) | [miguel@example.com](mailto:julioaraujo.guel@gmail.com)
 
 ---
 
