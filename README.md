@@ -34,7 +34,7 @@ Clone the repository and compile:
 ```bash
 git clone https://github.com/yourusername/tinyweb.git
 cd tinyweb
-gcc -o tinyweb main.c -lpthread
+gcc -o tinyweb tinyweb.c
 ````
 
 ---
